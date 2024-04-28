@@ -8,7 +8,7 @@ I'm currently focused on building a web application and thats a secret 😜. Vis
 I'm always eager to learn new technologies and improve my skills. Currently, I'm diving deeper into React.js and exploring.
 
 📫 How to reach me
-Feel free to reach out to me via email at nishan.gtsn@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/nissan-gtsn-085442291/) and Twitter (https://twitter.com/nishan_gtsn).
+Feel free to reach out to me via email at nishan.gtsn@gmail.com or connect with me on LinkedIn (Nissan GTSN) and Twitter (nishan_gtsn).
 
 😄 Pronouns
 He/Him
